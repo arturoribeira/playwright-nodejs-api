@@ -1,0 +1,17 @@
+"field","value","code"
+"name","",400
+"name",null,400
+"name","+@#",400
+"name","12346456",400
+"name",true,400
+"name",false,400
+"name",1.stringValue,400
+"name",200.stringValue,201
+"job","",400
+"job",null,400
+"job","+@#",400
+"job","12346456",400
+"job",true,400
+"job",false,400
+"job",1.stringValue,400
+"job",200.stringValue,201
